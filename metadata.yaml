@@ -1,0 +1,27 @@
+_repo: Through-a-pocket-lens_68981
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Scherren, Henry
+    gutenberg_agent_id: '55040'
+    url: http://www.gutenberg.org/2009/agents/55040
+description: ''
+gutenberg_issued: '2022-09-13'
+identifiers:
+  gutenberg: '68981'
+language: en
+pgterms:marc904: https://archive.org/details/throughpocketlen00sche
+pgterms:marc905: 20200404080448scherren
+pgterms:marc906: '1897'
+pgterms:marc907: GB
+production_note: deaurider, Karin Spence and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: United Kingdom :The Religious Tract Society,1897.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Through a pocket lens
+url: http://www.gutenberg.org/ebooks/68981
